@@ -1,0 +1,2 @@
+Curso Angular 
+Comando para crear proyectos de la forma tradicional --> ng new <nombre_app> --standalone false
